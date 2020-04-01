@@ -1,4 +1,7 @@
 <keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="Macro.OptimizeMakros">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="Macro.rearenge_code">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
