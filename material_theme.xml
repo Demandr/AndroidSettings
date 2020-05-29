@@ -4,6 +4,7 @@
     <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="useMaterialFont2" value="true" />
@@ -11,9 +12,9 @@
     <option name="treeFontSize" value="14" />
     <option name="tabFontSize" value="14" />
     <option name="settingsSelectedTab" value="2" />
-    <option name="accentColor" value="84ffff" />
+    <option name="accentColor" value="e9246e" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="39705577:16d87c7a84e:-8000" />
-    <option name="version" value="4.5.2" />
+    <option name="version" value="4.11.5" />
   </component>
 </application>
