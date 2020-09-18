@@ -1,5 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
+    <option name="contrastMode" value="true" />
+    <option name="highContrast" value="true" />
+    <option name="allowDataCollection" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
@@ -16,6 +21,6 @@
     <option name="accentColor" value="e9246e" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="39705577:16d87c7a84e:-8000" />
-    <option name="version" value="4.11.5" />
+    <option name="version" value="5.2.0" />
   </component>
 </application>
