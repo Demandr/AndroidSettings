@@ -4,6 +4,7 @@
       <removed_mapping ext="graphql" approved="true" type="GraphQL" />
       <mapping ext="webp" type="Image" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="sa" type="PLAIN_TEXT" />
       <mapping pattern="auto_ria_room_db" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
