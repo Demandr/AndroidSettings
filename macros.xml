@@ -5,5 +5,11 @@
       <action id="OptimizeImports" />
       <action id="ReformatCode" />
     </macro>
+    <macro name="rename_with_add_prefix">
+      <action id="RenameElement" />
+      <action id="EditorLeft" />
+      <action id="EditorPaste" />
+      <shortuct text="ENTER" />
+    </macro>
   </component>
 </application>
