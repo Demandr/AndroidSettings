@@ -10,6 +10,21 @@
       <action id="EditorLeft" />
       <action id="EditorPaste" />
       <shortuct text="ENTER" />
+      <action id="EditorDown" />
+    </macro>
+    <macro name="sss">
+      <action id="RenameElement" />
+      <action id="EditorLeft" />
+      <action id="EditorPaste" />
+      <shortuct text="ENTER" />
+      <action id="EditorDown" />
+    </macro>
+    <macro name="qqq">
+      <action id="EditorDown" />
+      <action id="RenameElement" />
+      <action id="EditorLeft" />
+      <action id="EditorPaste" />
+      <shortuct text="ENTER" />
     </macro>
   </component>
 </application>
