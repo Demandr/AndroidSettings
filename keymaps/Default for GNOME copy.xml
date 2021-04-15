@@ -1,18 +1,6 @@
 <keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
-  <action id="Back">
-    <keyboard-shortcut first-keystroke="shift alt left" />
-  </action>
-  <action id="Forward">
-    <keyboard-shortcut first-keystroke="shift alt right" />
-  </action>
-  <action id="Macro.qqq">
-    <mouse-shortcut keystroke="button4" />
-  </action>
   <action id="Macro.rearenge_code">
     <keyboard-shortcut first-keystroke="ctrl s" />
-  </action>
-  <action id="Macro.rename_with_add_prefix">
-    <mouse-shortcut keystroke="button5" />
   </action>
   <action id="SaveAll" />
   <action id="UpdateRunningApplication" />

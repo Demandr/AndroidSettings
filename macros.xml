@@ -5,26 +5,5 @@
       <action id="OptimizeImports" />
       <action id="ReformatCode" />
     </macro>
-    <macro name="rename_with_add_prefix">
-      <action id="RenameElement" />
-      <action id="EditorLeft" />
-      <action id="EditorPaste" />
-      <shortuct text="ENTER" />
-      <action id="EditorDown" />
-    </macro>
-    <macro name="sss">
-      <action id="RenameElement" />
-      <action id="EditorLeft" />
-      <action id="EditorPaste" />
-      <shortuct text="ENTER" />
-      <action id="EditorDown" />
-    </macro>
-    <macro name="qqq">
-      <action id="EditorDown" />
-      <action id="RenameElement" />
-      <action id="EditorLeft" />
-      <action id="EditorPaste" />
-      <shortuct text="ENTER" />
-    </macro>
   </component>
 </application>

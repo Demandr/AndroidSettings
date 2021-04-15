@@ -4,37 +4,10 @@
     <option name="LINE_SPACING" value="1.4" />
   </component>
   <component name="EditorSettings">
-    <option name="languageBreadcrumbsMap">
-      <map>
-        <entry key="Groovy" value="true" />
-        <entry key="HTML" value="true" />
-        <entry key="JAVA" value="true" />
-        <entry key="JSON" value="true" />
-        <entry key="ObjectiveC" value="true" />
-        <entry key="XHTML" value="true" />
-        <entry key="XML" value="true" />
-        <entry key="kotlin" value="true" />
-        <entry key="yaml" value="true" />
-      </map>
-    </option>
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
-    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="IS_CAMEL_WORDS" value="true" />
     <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
-  </component>
-  <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="CodeVision" />
-    <settingsMapElement>
-      <kotlin.KotlinReferencesTypeHintsProvider>
-        <Settings>
-          <option name="functionReturnType" value="true" />
-          <option name="localVariableType" value="true" />
-          <option name="parameterType" value="true" />
-          <option name="propertyType" value="true" />
-        </Settings>
-      </kotlin.KotlinReferencesTypeHintsProvider>
-    </settingsMapElement>
   </component>
   <component name="JetEditorOptions">
     <option name="donTShowConversionDialog" value="true" />
