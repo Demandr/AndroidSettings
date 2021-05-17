@@ -3,6 +3,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_select_exchange_advert.xml" value="0.19703947368421051" />
+        <entry key="app/src/main/res/layout/adverts_list_fragment.xml" value="0.14924863387978143" />
         <entry key="myAutoRia/src/main/res/layout/myautoria_input_select.xml" value="0.2" />
       </map>
     </option>
