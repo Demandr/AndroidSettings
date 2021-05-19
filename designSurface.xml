@@ -3,6 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_list.xml" value="0.20657894736842106" />
         <entry key="app/src/main/res/layout/activity_notifications.xml" value="0.22" />
         <entry key="app/src/main/res/layout/activity_select_exchange_advert.xml" value="0.19703947368421051" />
         <entry key="app/src/main/res/layout/adverts_list_fragment.xml" value="0.14924863387978143" />
