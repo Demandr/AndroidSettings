@@ -4,12 +4,17 @@
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_list.xml" value="0.20657894736842106" />
+        <entry key="app/src/main/res/layout/activity_moderator_rejection.xml" value="0.20657894736842106" />
         <entry key="app/src/main/res/layout/activity_notifications.xml" value="0.22" />
         <entry key="app/src/main/res/layout/activity_select_exchange_advert.xml" value="0.19703947368421051" />
+        <entry key="app/src/main/res/layout/activity_success_adding.xml" value="0.21" />
         <entry key="app/src/main/res/layout/adverts_list_fragment.xml" value="0.14924863387978143" />
         <entry key="app/src/main/res/layout/bottom_sheet_delete_advert.xml" value="0.20657894736842106" />
         <entry key="app/src/main/res/layout/bottom_sheet_no_vin_error.xml" value="0.20657894736842106" />
+        <entry key="app/src/main/res/layout/fragment_view_advert_exchange.xml" value="0.20657894736842106" />
+        <entry key="app/src/main/res/layout/my_adverts_list_fragment.xml" value="0.20657894736842106" />
         <entry key="app/src/main/res/layout/notepad_footer.xml" value="0.19703947368421051" />
+        <entry key="app/src/main/res/layout/notification_item_in_detail.xml" value="0.20657894736842106" />
         <entry key="myAutoRia/src/main/res/layout/myautoria_input_bar_input.xml" value="0.14515027322404372" />
         <entry key="myAutoRia/src/main/res/layout/myautoria_input_select.xml" value="0.2" />
         <entry key="myAutoRia/src/main/res/layout/myautoria_message_input_article.xml" value="0.5" />
