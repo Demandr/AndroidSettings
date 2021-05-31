@@ -28,6 +28,7 @@
         <entry key="app/src/main/res/layout/notepad_footer.xml" value="0.19703947368421051" />
         <entry key="app/src/main/res/layout/notification_item_in_detail.xml" value="0.20657894736842106" />
         <entry key="app/src/main/res/layout/old_auto_promo.xml" value="0.25" />
+        <entry key="common/src/main/res/drawable/bg_chat_phone_receive.xml" value="0.21611842105263157" />
         <entry key="myAutoRia/src/main/res/layout/myautoria_input_bar_input.xml" value="0.14515027322404372" />
         <entry key="myAutoRia/src/main/res/layout/myautoria_input_select.xml" value="0.2" />
         <entry key="myAutoRia/src/main/res/layout/myautoria_message_input_article.xml" value="0.5" />
