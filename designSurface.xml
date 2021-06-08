@@ -10,6 +10,7 @@
         <entry key="RiaChat/src/main/res/drawable/bg_chat_floating_button_indicator.xml" value="0.15234375" />
         <entry key="RiaChat/src/main/res/drawable/bg_chat_forbidden_link.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/bg_chat_message_from_me_rounded_not_active.xml" value="0.1" />
+        <entry key="RiaChat/src/main/res/drawable/bg_chat_message_from_me_rounded_redesign.xml" value="0.2453125" />
         <entry key="RiaChat/src/main/res/drawable/bg_chat_message_received_rounded_redesign.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/bg_chat_own_image_border.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/bg_chat_phone_from_me.xml" value="0.1" />
@@ -20,11 +21,15 @@
         <entry key="RiaChat/src/main/res/drawable/bg_chat_video_call_description.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/bg_chat_video_call_phone_item.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/bg_complaint_item.xml" value="0.1296875" />
+        <entry key="RiaChat/src/main/res/drawable/bg_fast_questions_selected.xml" value="0.1" />
+        <entry key="RiaChat/src/main/res/drawable/bg_fast_questions_unselected.xml" value="0.2453125" />
         <entry key="RiaChat/src/main/res/drawable/bg_gradient_top_chat_call.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/bg_image_chat_list.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/bg_link_prewie.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/bg_link_prewie_received.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/bg_rate_video_call_button_border.xml" value="0.1" />
+        <entry key="RiaChat/src/main/res/drawable/bg_rounded_color_yellow.xml" value="0.1" />
+        <entry key="RiaChat/src/main/res/drawable/bg_rounded_corner_blue_vin.xml" value="0.2453125" />
         <entry key="RiaChat/src/main/res/drawable/bg_rounded_corner_green.xml" value="0.118359375" />
         <entry key="RiaChat/src/main/res/drawable/bg_rounded_corner_white_outline_gray.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/bg_rounded_corner_white_outline_green.xml" value="0.1" />
@@ -33,16 +38,20 @@
         <entry key="RiaChat/src/main/res/drawable/bg_transparent_bordered_button.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/color_rate_video_call_button_text.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/ic_action_refresh.xml" value="0.256640625" />
+        <entry key="RiaChat/src/main/res/drawable/ic_actionbar_dropdown_off.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/ic_answering_machine_forward.xml" value="0.1078125" />
         <entry key="RiaChat/src/main/res/drawable/ic_avatar_big.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/ic_baned_user.xml" value="0.1296875" />
         <entry key="RiaChat/src/main/res/drawable/ic_cam.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/ic_camera_off_white.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/ic_chat_attach_file_blue.xml" value="0.1" />
+        <entry key="RiaChat/src/main/res/drawable/ic_chat_button_explanation_auto.xml" value="0.233984375" />
+        <entry key="RiaChat/src/main/res/drawable/ic_chat_button_explanation_dom.xml" value="0.233984375" />
         <entry key="RiaChat/src/main/res/drawable/ic_chat_call_up.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/ic_chat_camera_enable.xml" value="0.2453125" />
         <entry key="RiaChat/src/main/res/drawable/ic_chat_camera_off.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/ic_chat_dismiss_call.xml" value="0.1" />
+        <entry key="RiaChat/src/main/res/drawable/ic_chat_empty_avatar.xml" value="0.2453125" />
         <entry key="RiaChat/src/main/res/drawable/ic_chat_empty_blue.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/ic_chat_enable_micro.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/ic_chat_floating_delete_button.xml" value="0.1296875" />
@@ -54,6 +63,7 @@
         <entry key="RiaChat/src/main/res/drawable/ic_chat_video_call_phone.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/ic_chat_videocam.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/ic_chat_white.xml" value="0.1" />
+        <entry key="RiaChat/src/main/res/drawable/ic_delivered_message.xml" value="0.2453125" />
         <entry key="RiaChat/src/main/res/drawable/ic_dropdown.xml" value="0.141015625" />
         <entry key="RiaChat/src/main/res/drawable/ic_exchanges_menu_dots.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/ic_feedback_ok.xml" value="0.1" />
@@ -63,15 +73,23 @@
         <entry key="RiaChat/src/main/res/drawable/ic_i24_settings.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/ic_incoming_call_chat.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/ic_mic.xml" value="0.1" />
+        <entry key="RiaChat/src/main/res/drawable/ic_no_avatar.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/ic_online.xml" value="0.141015625" />
         <entry key="RiaChat/src/main/res/drawable/ic_outgoing_call_chat.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/ic_phone_empty_gray.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/ic_phone_empty_white.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/ic_phone_lite_blue_empty.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/ic_pointer_back.xml" value="0.1296875" />
+        <entry key="RiaChat/src/main/res/drawable/ic_read_message.xml" value="0.256640625" />
         <entry key="RiaChat/src/main/res/drawable/ic_refresh_animations.xml" value="0.1" />
+        <entry key="RiaChat/src/main/res/drawable/ic_ria_logo_round.xml" value="0.1" />
+        <entry key="RiaChat/src/main/res/drawable/ic_send_chat_message.xml" value="0.7785714285714286" />
+        <entry key="RiaChat/src/main/res/drawable/ic_send_chat_message_gray.xml" value="0.1" />
+        <entry key="RiaChat/src/main/res/drawable/ic_sent_message.xml" value="0.256640625" />
         <entry key="RiaChat/src/main/res/drawable/ic_very_quick_answering_user.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/img_no_photo.xml" value="0.2453125" />
+        <entry key="RiaChat/src/main/res/drawable/img_tronchuk.xml" value="0.1" />
+        <entry key="RiaChat/src/main/res/drawable/no_photo.xml" value="0.2453125" />
         <entry key="RiaChat/src/main/res/layout/chat_template_received.xml" value="0.33" />
         <entry key="RiaChat/src/main/res/layout/chat_video_call_status_received.xml" value="0.20657894736842106" />
         <entry key="RiaChat/src/main/res/layout/item_chat_phone.xml" value="0.20657894736842106" />
@@ -105,6 +123,7 @@
         <entry key="common/src/main/res/drawable/bg_chat_floating_button_indicator.xml" value="0.20657894736842106" />
         <entry key="common/src/main/res/drawable/bg_chat_forbidden_link.xml" value="0.1" />
         <entry key="common/src/main/res/drawable/bg_chat_message_from_me_rounded_not_active.xml" value="0.20657894736842106" />
+        <entry key="common/src/main/res/drawable/bg_chat_message_from_me_rounded_redesign.xml" value="0.19703947368421051" />
         <entry key="common/src/main/res/drawable/bg_chat_message_received_rounded_redesign.xml" value="0.20657894736842106" />
         <entry key="common/src/main/res/drawable/bg_chat_own_image_border.xml" value="0.1" />
         <entry key="common/src/main/res/drawable/bg_chat_phone_from_me.xml" value="0.1" />
@@ -114,11 +133,15 @@
         <entry key="common/src/main/res/drawable/bg_chat_video_call_description.xml" value="0.21611842105263157" />
         <entry key="common/src/main/res/drawable/bg_chat_video_call_phone_item.xml" value="0.21611842105263157" />
         <entry key="common/src/main/res/drawable/bg_complaint_item.xml" value="0.21611842105263157" />
+        <entry key="common/src/main/res/drawable/bg_fast_questions_selected.xml" value="0.20657894736842106" />
+        <entry key="common/src/main/res/drawable/bg_fast_questions_unselected.xml" value="0.20657894736842106" />
         <entry key="common/src/main/res/drawable/bg_gradient_top_chat_call.xml" value="0.20657894736842106" />
         <entry key="common/src/main/res/drawable/bg_image_chat_list.xml" value="0.20657894736842106" />
         <entry key="common/src/main/res/drawable/bg_link_prewie.xml" value="0.21611842105263157" />
         <entry key="common/src/main/res/drawable/bg_link_prewie_received.xml" value="0.1" />
         <entry key="common/src/main/res/drawable/bg_rate_video_call_button_border.xml" value="0.21611842105263157" />
+        <entry key="common/src/main/res/drawable/bg_rounded_color_yellow.xml" value="0.20657894736842106" />
+        <entry key="common/src/main/res/drawable/bg_rounded_corner_blue_vin.xml" value="0.20657894736842106" />
         <entry key="common/src/main/res/drawable/bg_rounded_corner_green.xml" value="0.21611842105263157" />
         <entry key="common/src/main/res/drawable/bg_rounded_corner_white_outline_gray.xml" value="0.21611842105263157" />
         <entry key="common/src/main/res/drawable/bg_rounded_corner_white_outline_green.xml" value="0.19703947368421051" />
@@ -128,15 +151,19 @@
         <entry key="common/src/main/res/drawable/color_rate_video_call_button_text.xml" value="0.19703947368421051" />
         <entry key="common/src/main/res/drawable/drawable.xml" value="0.256640625" />
         <entry key="common/src/main/res/drawable/ic_action_refresh.xml" value="0.21611842105263157" />
+        <entry key="common/src/main/res/drawable/ic_actionbar_dropdown_off.xml" value="0.21611842105263157" />
         <entry key="common/src/main/res/drawable/ic_answering_machine_forward.xml" value="0.21611842105263157" />
         <entry key="common/src/main/res/drawable/ic_avatar_big.xml" value="0.21611842105263157" />
         <entry key="common/src/main/res/drawable/ic_cam.xml" value="0.1" />
         <entry key="common/src/main/res/drawable/ic_camera_off_white.xml" value="0.21611842105263157" />
         <entry key="common/src/main/res/drawable/ic_chat_attach_file_blue.xml" value="0.20657894736842106" />
+        <entry key="common/src/main/res/drawable/ic_chat_button_explanation_auto.xml" value="0.20657894736842106" />
+        <entry key="common/src/main/res/drawable/ic_chat_button_explanation_dom.xml" value="0.20657894736842106" />
         <entry key="common/src/main/res/drawable/ic_chat_call_up.xml" value="0.21611842105263157" />
         <entry key="common/src/main/res/drawable/ic_chat_camera_enable.xml" value="0.21611842105263157" />
         <entry key="common/src/main/res/drawable/ic_chat_camera_off.xml" value="0.20657894736842106" />
         <entry key="common/src/main/res/drawable/ic_chat_dismiss_call.xml" value="0.21611842105263157" />
+        <entry key="common/src/main/res/drawable/ic_chat_empty_avatar.xml" value="0.20657894736842106" />
         <entry key="common/src/main/res/drawable/ic_chat_empty_blue.xml" value="0.21611842105263157" />
         <entry key="common/src/main/res/drawable/ic_chat_enable_micro.xml" value="0.21611842105263157" />
         <entry key="common/src/main/res/drawable/ic_chat_floating_delete_button.xml" value="0.21611842105263157" />
@@ -148,6 +175,7 @@
         <entry key="common/src/main/res/drawable/ic_chat_video_call_phone.xml" value="0.19703947368421051" />
         <entry key="common/src/main/res/drawable/ic_chat_videocam.xml" value="0.21611842105263157" />
         <entry key="common/src/main/res/drawable/ic_chat_white.xml" value="0.21611842105263157" />
+        <entry key="common/src/main/res/drawable/ic_delivered_message.xml" value="0.21611842105263157" />
         <entry key="common/src/main/res/drawable/ic_exchanges_menu_dots.xml" value="0.1" />
         <entry key="common/src/main/res/drawable/ic_feedback_ok.xml" value="0.21611842105263157" />
         <entry key="common/src/main/res/drawable/ic_forward.xml" value="0.21611842105263157" />
@@ -162,7 +190,12 @@
         <entry key="common/src/main/res/drawable/ic_phone_empty_gray.xml" value="0.20657894736842106" />
         <entry key="common/src/main/res/drawable/ic_phone_empty_white.xml" value="0.20657894736842106" />
         <entry key="common/src/main/res/drawable/ic_phone_lite_blue_empty.xml" value="0.1" />
+        <entry key="common/src/main/res/drawable/ic_read_message.xml" value="0.21611842105263157" />
         <entry key="common/src/main/res/drawable/ic_refresh_animations.xml" value="0.1" />
+        <entry key="common/src/main/res/drawable/ic_ria_logo_round.xml" value="0.21611842105263157" />
+        <entry key="common/src/main/res/drawable/ic_send_chat_message.xml" value="0.21611842105263157" />
+        <entry key="common/src/main/res/drawable/ic_send_chat_message_gray.xml" value="0.21611842105263157" />
+        <entry key="common/src/main/res/drawable/ic_sent_message.xml" value="0.21611842105263157" />
         <entry key="common/src/main/res/drawable/ic_very_quick_answering_user.xml" value="0.21611842105263157" />
         <entry key="common/src/main/res/layout/custom_star.xml" value="0.19364754098360656" />
         <entry key="myAutoRia/src/main/res/layout/myautoria_input_bar_input.xml" value="0.14515027322404372" />
