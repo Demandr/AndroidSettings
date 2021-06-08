@@ -142,6 +142,7 @@
         <entry key="common/src/main/res/drawable/ic_chat_floating_delete_button.xml" value="0.21611842105263157" />
         <entry key="common/src/main/res/drawable/ic_chat_i24_help.xml" value="0.21611842105263157" />
         <entry key="common/src/main/res/drawable/ic_chat_i24_smile.xml" value="0.21611842105263157" />
+        <entry key="common/src/main/res/drawable/ic_chat_micro_disable.xml" value="0.20657894736842106" />
         <entry key="common/src/main/res/drawable/ic_chat_switch_camera.xml" value="0.21611842105263157" />
         <entry key="common/src/main/res/drawable/ic_chat_video_call_green_check.xml" value="0.19703947368421051" />
         <entry key="common/src/main/res/drawable/ic_chat_video_call_phone.xml" value="0.19703947368421051" />
