@@ -3,6 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="../../Android/Sdk/platforms/android-29/data/res/layout/simple_list_item_single_choice.xml" value="0.20657894736842106" />
         <entry key="RiaChat/src/main/res/drawable/bg_action_blue_rounded.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/bg_chat_call_status.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/drawable/bg_chat_counter.xml" value="0.1" />
