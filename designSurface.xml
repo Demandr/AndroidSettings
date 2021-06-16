@@ -213,6 +213,7 @@
         <entry key="myAutoRia/src/main/res/layout/myautoria_message_listing.xml" value="0.22" />
         <entry key="myAutoRia/src/main/res/layout/myautoria_message_listing_2.xml" value="0.25" />
         <entry key="myAutoRia/src/main/res/layout/myautoria_message_output_article.xml" value="0.5" />
+        <entry key="myAutoRia/src/main/res/layout/myautoria_simple_button.xml" value="0.1" />
       </map>
     </option>
   </component>
