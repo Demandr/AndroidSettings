@@ -94,8 +94,10 @@
         <entry key="RiaChat/src/main/res/drawable/no_photo.xml" value="0.2453125" />
         <entry key="RiaChat/src/main/res/layout/chat_template_received.xml" value="0.33" />
         <entry key="RiaChat/src/main/res/layout/chat_video_call_status_received.xml" value="0.20657894736842106" />
+        <entry key="RiaChat/src/main/res/layout/fast_question_text_item.xml" value="0.18" />
         <entry key="RiaChat/src/main/res/layout/fragment_chat.xml" value="0.1" />
         <entry key="RiaChat/src/main/res/layout/item_chat_phone.xml" value="0.20657894736842106" />
+        <entry key="RiaChat/src/main/res/layout/item_fast_questions.xml" value="0.14856557377049182" />
         <entry key="RiaChat/src/main/res/layout/item_received_message_with_phone.xml" value="0.25" />
         <entry key="RiaChat/src/main/res/layout/phones_bottom_sheet_fragment.xml" value="0.22" />
         <entry key="RiaChat/src/main/res/layout/select_layout.xml" value="0.19703947368421051" />
