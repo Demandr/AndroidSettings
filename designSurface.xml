@@ -213,6 +213,7 @@
         <entry key="common/src/main/res/layout/custom_star.xml" value="0.19364754098360656" />
         <entry key="common/src/main/res/layout/fragment_feedback_bottom.xml" value="0.21611842105263157" />
         <entry key="myAutoRia/src/main/res/drawable/i24_s2_favorite_fill.xml" value="0.21611842105263157" />
+        <entry key="myAutoRia/src/main/res/layout/my_auto_ria_channel_fragment.xml" value="0.1369535519125683" />
         <entry key="myAutoRia/src/main/res/layout/myautoria_input_bar_input.xml" value="0.14515027322404372" />
         <entry key="myAutoRia/src/main/res/layout/myautoria_input_select.xml" value="0.2" />
         <entry key="myAutoRia/src/main/res/layout/myautoria_message_input_article.xml" value="0.2" />
