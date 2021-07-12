@@ -124,6 +124,7 @@
         <entry key="app/src/main/res/layout/bottom_sheet_delete_advert.xml" value="0.20657894736842106" />
         <entry key="app/src/main/res/layout/bottom_sheet_no_vin_error.xml" value="0.20657894736842106" />
         <entry key="app/src/main/res/layout/check_people_comment_item.xml" value="0.20657894736842106" />
+        <entry key="app/src/main/res/layout/custom_star.xml" value="0.33" />
         <entry key="app/src/main/res/layout/fragment_user_actions.xml" value="0.19703947368421051" />
         <entry key="app/src/main/res/layout/fragment_view_advert_exchange.xml" value="0.20657894736842106" />
         <entry key="app/src/main/res/layout/fragment_view_wall.xml" value="0.20657894736842106" />
@@ -212,7 +213,7 @@
         <entry key="common/src/main/res/drawable/ic_send_chat_message_gray.xml" value="0.21611842105263157" />
         <entry key="common/src/main/res/drawable/ic_sent_message.xml" value="0.21611842105263157" />
         <entry key="common/src/main/res/drawable/ic_very_quick_answering_user.xml" value="0.21611842105263157" />
-        <entry key="common/src/main/res/layout/custom_star.xml" value="0.19364754098360656" />
+        <entry key="common/src/main/res/layout/custom_star.xml" value="0.33" />
         <entry key="common/src/main/res/layout/fragment_feedback_bottom.xml" value="0.21611842105263157" />
         <entry key="myAutoRia/src/main/res/drawable/i24_s2_favorite_fill.xml" value="0.21611842105263157" />
         <entry key="myAutoRia/src/main/res/layout/my_auto_ria_channel_fragment.xml" value="0.1369535519125683" />
