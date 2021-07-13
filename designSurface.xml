@@ -213,6 +213,7 @@
         <entry key="common/src/main/res/drawable/ic_send_chat_message_gray.xml" value="0.21611842105263157" />
         <entry key="common/src/main/res/drawable/ic_sent_message.xml" value="0.21611842105263157" />
         <entry key="common/src/main/res/drawable/ic_very_quick_answering_user.xml" value="0.21611842105263157" />
+        <entry key="common/src/main/res/layout/call_to_autosalon.xml" value="0.19228142076502733" />
         <entry key="common/src/main/res/layout/custom_star.xml" value="0.33" />
         <entry key="common/src/main/res/layout/fragment_feedback_bottom.xml" value="0.21611842105263157" />
         <entry key="myAutoRia/src/main/res/drawable/i24_s2_favorite_fill.xml" value="0.21611842105263157" />
