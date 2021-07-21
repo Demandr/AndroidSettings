@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/Tagakov/modules-and-dagger.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.decluster.ria.com/horbenko/mobile_dom_app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
