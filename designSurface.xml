@@ -99,7 +99,7 @@
         <entry key="RiaChat/src/main/res/layout/item_chat_phone.xml" value="0.20657894736842106" />
         <entry key="RiaChat/src/main/res/layout/item_fast_questions.xml" value="0.14856557377049182" />
         <entry key="RiaChat/src/main/res/layout/item_received_message_with_phone.xml" value="0.25" />
-        <entry key="RiaChat/src/main/res/layout/phones_bottom_sheet_fragment.xml" value="0.22" />
+        <entry key="RiaChat/src/main/res/layout/phones_bottom_sheet_fragment.xml" value="0.33" />
         <entry key="RiaChat/src/main/res/layout/select_layout.xml" value="0.19703947368421051" />
         <entry key="RiaChat/src/main/res/layout/template_action_item.xml" value="0.33" />
         <entry key="RiaChat/src/main/res/layout/template_action_large_item.xml" value="0.4305555555555556" />
@@ -130,12 +130,15 @@
         <entry key="app/src/main/res/layout/fragment_view_advert_exchange.xml" value="0.20657894736842106" />
         <entry key="app/src/main/res/layout/fragment_view_wall.xml" value="0.20657894736842106" />
         <entry key="app/src/main/res/layout/include_avo_bottom_block.xml" value="0.19228142076502733" />
+        <entry key="app/src/main/res/layout/include_avo_checked_vin.xml" value="0.2418478260869565" />
         <entry key="app/src/main/res/layout/my_adverts_list_fragment.xml" value="0.20657894736842106" />
         <entry key="app/src/main/res/layout/notepad_footer.xml" value="0.19703947368421051" />
         <entry key="app/src/main/res/layout/notification_item_in_detail.xml" value="0.20657894736842106" />
         <entry key="app/src/main/res/layout/notification_list_item.xml" value="0.1875" />
         <entry key="app/src/main/res/layout/old_auto_promo.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/phone_to_seller_popup.xml" value="0.25" />
         <entry key="app/src/main/res/layout/user_phone_item_green.xml" value="0.19228142076502733" />
+        <entry key="app/src/main/res/layout/user_phone_selector.xml" value="0.2418478260869565" />
         <entry key="common/src/main/res/drawable/bg_action_blue_rounded.xml" value="0.21611842105263157" />
         <entry key="common/src/main/res/drawable/bg_chat_call_status.xml" value="0.20657894736842106" />
         <entry key="common/src/main/res/drawable/bg_chat_counter.xml" value="0.1" />
