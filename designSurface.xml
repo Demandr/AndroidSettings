@@ -116,7 +116,9 @@
         <entry key="app/src/main/res/layout/activity_select_exchange_advert.xml" value="0.19703947368421051" />
         <entry key="app/src/main/res/layout/activity_send_author_email.xml" value="0.22" />
         <entry key="app/src/main/res/layout/activity_success_adding.xml" value="0.21" />
+        <entry key="app/src/main/res/layout/activity_whats_new.xml" value="0.29846014492753625" />
         <entry key="app/src/main/res/layout/activity_whats_new_single.xml" value="0.13217213114754098" />
+        <entry key="app/src/main/res/layout/activity_whats_new_video_calls.xml" value="0.296875" />
         <entry key="app/src/main/res/layout/adverts_list_fragment.xml" value="0.14924863387978143" />
         <entry key="app/src/main/res/layout/auto_search_item_new_design_v2.xml" value="0.21611842105263157" />
         <entry key="app/src/main/res/layout/auto_search_view.xml" value="0.15471311475409835" />
@@ -129,6 +131,7 @@
         <entry key="app/src/main/res/layout/fragment_user_actions.xml" value="0.19703947368421051" />
         <entry key="app/src/main/res/layout/fragment_view_advert_exchange.xml" value="0.29846014492753625" />
         <entry key="app/src/main/res/layout/fragment_view_wall.xml" value="0.29846014492753625" />
+        <entry key="app/src/main/res/layout/fragment_whats_new_beta_tester.xml" value="0.296875" />
         <entry key="app/src/main/res/layout/include_avo_bottom_block.xml" value="0.19228142076502733" />
         <entry key="app/src/main/res/layout/include_avo_checked_vin.xml" value="0.2418478260869565" />
         <entry key="app/src/main/res/layout/my_adverts_list_fragment.xml" value="0.20657894736842106" />
