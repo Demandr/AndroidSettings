@@ -127,8 +127,8 @@
         <entry key="app/src/main/res/layout/custom_star.xml" value="0.33" />
         <entry key="app/src/main/res/layout/fragment_advert_view_old_redisign.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_user_actions.xml" value="0.19703947368421051" />
-        <entry key="app/src/main/res/layout/fragment_view_advert_exchange.xml" value="0.20657894736842106" />
-        <entry key="app/src/main/res/layout/fragment_view_wall.xml" value="0.20657894736842106" />
+        <entry key="app/src/main/res/layout/fragment_view_advert_exchange.xml" value="0.29846014492753625" />
+        <entry key="app/src/main/res/layout/fragment_view_wall.xml" value="0.29846014492753625" />
         <entry key="app/src/main/res/layout/include_avo_bottom_block.xml" value="0.19228142076502733" />
         <entry key="app/src/main/res/layout/include_avo_checked_vin.xml" value="0.2418478260869565" />
         <entry key="app/src/main/res/layout/my_adverts_list_fragment.xml" value="0.20657894736842106" />
