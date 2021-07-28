@@ -240,6 +240,8 @@
         <entry key="myAutoRia/src/main/res/layout/myautoria_message_listing_2.xml" value="0.25" />
         <entry key="myAutoRia/src/main/res/layout/myautoria_message_output_article.xml" value="0.5" />
         <entry key="myAutoRia/src/main/res/layout/myautoria_simple_button.xml" value="0.1" />
+        <entry key="newautofinalpage/src/main/res/layout/advert_view_new_auto.xml" value="0.29846014492753625" />
+        <entry key="newautofinalpage/src/main/res/layout/fragment_new_auto_final_page.xml" value="0.29846014492753625" />
       </map>
     </option>
   </component>
