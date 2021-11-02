@@ -1,4 +1,7 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="HIGHLIGHT_SCOPE" value="true" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="15" />
     <option name="LINE_SPACING" value="1.4" />
@@ -23,7 +26,17 @@
     <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value="RelatedProblems" />
+    <settingsMapElement>
+      <kotlin.KotlinReferencesTypeHintsProvider>
+        <Settings>
+          <option name="functionReturnType" value="true" />
+          <option name="localVariableType" value="true" />
+          <option name="parameterType" value="true" />
+          <option name="propertyType" value="true" />
+        </Settings>
+      </kotlin.KotlinReferencesTypeHintsProvider>
+    </settingsMapElement>
   </component>
   <component name="JetEditorOptions">
     <option name="donTShowConversionDialog" value="true" />

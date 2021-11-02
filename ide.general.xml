@@ -1,6 +1,7 @@
 <application>
   <component name="GeneralSettings">
     <option name="autoSaveIfInactive" value="true" />
+    <option name="confirmExit" value="false" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="showTipsOnStartup" value="false" />
   </component>
@@ -9,6 +10,7 @@
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="external.system.auto.import.disabled" value="true" />
+    <entry key="ide.instant.shutdown" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
