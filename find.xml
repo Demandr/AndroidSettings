@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="myAutoria" />
-    <option name="defaultScopeName" value="myAutoria" />
-    <option name="SEARCH_SCOPE" value="myAutoria" />
+    <option name="customScope" value="Project 'auto_ria_android_new'" />
+    <option name="defaultScopeName" value="Project 'auto_ria_android_new'" />
+    <option name="SEARCH_SCOPE" value="Project 'auto_ria_android_new'" />
   </component>
 </application>
