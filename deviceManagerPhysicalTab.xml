@@ -4,6 +4,18 @@
       <PhysicalDevice>
         <key>
           <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="09291FDD4004SK" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-03-14T08:46:24.321684Z" />
+        <name value="Google Pixel 5" />
+        <target value="Android API 32" />
+        <api value="32" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
             <type value="DOMAIN_NAME" />
             <value value="adb-09291FDD4004SK-NvK5Wc._adb-tls-connect._tcp" />
           </Key>
