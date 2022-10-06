@@ -34,6 +34,14 @@
           <option name="url" value="https://gitlab.decluster.ria.com/android/training/ria_testing.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Anmol92verma/SlackAndroidClone.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/android/compose-samples.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Android_Project" />
