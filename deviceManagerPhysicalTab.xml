@@ -10,7 +10,7 @@
         </key>
         <name value="Google Pixel 5" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -19,10 +19,9 @@
             <value value="adb-09291FDD4004SK-NvK5Wc._adb-tls-connect._tcp" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-28T13:01:59.282822Z" />
         <name value="Google Pixel 5" />
-        <target value="Android API 32" />
-        <api value="32" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
