@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine   sendTrackingWithEvent" />
+    <option name="mostRecentlyUsed" value="package:mine   PaymentsWebActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine   PaymentsWebActivity" />
+        <option value="package:mine   webview" />
         <option value="package:mine   sendTrackingWithEvent" />
         <option value="package:mine   " />
         <option value="package:mine   DomLocationPickerFragment" />
