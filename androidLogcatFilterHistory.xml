@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine      tag:MapboxHelper" />
+    <option name="mostRecentlyUsed" value="package:mine      RealImageLoader" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine      RealImageLoader" />
+        <option value="package:mine      " />
         <option value="package:mine      tag:MapboxHelper" />
         <option value="package:mine      MapboxHelper" />
         <option value="package:mine     " />
@@ -21,8 +23,6 @@
         <option value="package:mine OkHttpClient" />
         <option value="package:mine   level: error  " />
         <option value="package:mine   level: info " />
-        <option value="package:mine   level: error " />
-        <option value="package:mine   sss" />
       </list>
     </option>
   </component>
