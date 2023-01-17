@@ -1,5 +1,6 @@
 <application>
   <component name="MaterialCustomThemeConfig">
+    <option name="colorScheme" value="Dracula (Material)" />
     <option name="excludedColor" value="3c4150ff" />
     <option name="accentColor" value="2979ffff" />
     <option name="notificationsColor" value="282c34ff" />
