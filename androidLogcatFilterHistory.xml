@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  myLog_" />
+    <option name="mostRecentlyUsed" value="package:mine  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  " />
         <option value="package:mine  myLog_" />
         <option value="package:mine   onConsoleMessage" />
         <option value="package:mine   PaymentsWebActivity" />
-        <option value="package:mine  " />
         <option value="package:mine   level:error    " />
         <option value="package:mine     " />
         <option value="package:mine      RealImageLoader" />
