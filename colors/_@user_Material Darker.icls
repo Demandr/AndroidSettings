@@ -4,7 +4,7 @@
     <property name="created">2019-10-01T17:44:32</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.0.21</property>
-    <property name="modified">2023-01-24T10:09:29</property>
+    <property name="modified">2023-01-24T15:29:54</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <console-font>
@@ -352,7 +352,7 @@
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="89ddf7" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
