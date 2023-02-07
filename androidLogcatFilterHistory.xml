@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine " />
         <option value="package:mine  level:error " />
         <option value="package:mine   Mapbox" />
@@ -21,7 +23,6 @@
         <option value="package:mine   sendTrackingWithEvent" />
         <option value="package:mine   DomLocationPickerFragment" />
         <option value="package:mine  DomLocationPickerFragment" />
-        <option value="package:mine sss" />
       </list>
     </option>
   </component>
