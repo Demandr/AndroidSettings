@@ -1,8 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine  sss" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  sss" />
         <option value="package:mine " />
+        <option value="package:mine tag: " />
+        <option value="package:mine tag: ss" />
+        <option value="package:mine tag:sss" />
+        <option value="package:mine tag: ssss" />
+        <option value="package:mine tag: sss" />
         <option value="package:mine  level:error " />
         <option value="package:mine level: error " />
         <option value="package:mine level:error " />
@@ -16,12 +23,6 @@
         <option value="package:mine      RealImageLoader" />
         <option value="package:mine      " />
         <option value="package:mine      tag:MapboxHelper" />
-        <option value="package:mine      MapboxHelper" />
-        <option value="package:mine    level: error " />
-        <option value="package:mine   " />
-        <option value="package:mine   webview" />
-        <option value="package:mine   sendTrackingWithEvent" />
-        <option value="package:mine   DomLocationPickerFragment" />
       </list>
     </option>
   </component>
