@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine mapbox" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine mapbox" />
         <option value="package:mine " />
         <option value="package:mine   Mapbox" />
         <option value="package:mine  " />
@@ -21,7 +23,6 @@
         <option value="package:mine     " />
         <option value="package:mine      RealImageLoader" />
         <option value="package:mine      " />
-        <option value="package:mine      tag:MapboxHelper" />
       </list>
     </option>
   </component>
