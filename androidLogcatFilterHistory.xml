@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine asd1" />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
+        <option value="package:mine" />
         <option value="package:mine asd1" />
         <option value="package:mine mapbox" />
         <option value="package:mine " />
@@ -16,13 +18,11 @@
         <option value="package:mine tag: sss" />
         <option value="package:mine  level:error " />
         <option value="package:mine level: error " />
-        <option value="package:mine level:error " />
         <option value="package:mine  myLog_" />
         <option value="package:mine   onConsoleMessage" />
         <option value="package:mine   PaymentsWebActivity" />
         <option value="package:mine   level:error    " />
         <option value="package:mine     " />
-        <option value="package:mine      RealImageLoader" />
       </list>
     </option>
   </component>
