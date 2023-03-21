@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:warn " />
+    <option name="mostRecentlyUsed" value="package:mine asds" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine asds" />
         <option value="package:mine level:warn " />
         <option value="package:mine " />
         <option value="package:mine level:error " />
@@ -22,7 +23,6 @@
         <option value="package:mine  myLog_" />
         <option value="package:mine   onConsoleMessage" />
         <option value="package:mine   PaymentsWebActivity" />
-        <option value="package:mine   level:error    " />
       </list>
     </option>
   </component>
