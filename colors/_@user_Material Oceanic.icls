@@ -4,7 +4,7 @@
     <property name="created">2019-11-14T10:48:07</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.2.0</property>
-    <property name="modified">2023-05-01T10:17:15</property>
+    <property name="modified">2023-05-02T14:15:41</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -351,6 +351,7 @@
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="89ddf7" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
