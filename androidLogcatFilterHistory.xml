@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:warn " />
+    <option name="mostRecentlyUsed" value="package:mine level:error  EventSender2" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error  EventSender2" />
+        <option value="package:mine level:error  EventSender" />
         <option value="package:mine level:warn " />
         <option value="package:mine level:error " />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="package:mine asds" />
         <option value="package:mine" />
         <option value="package:mine asd1" />
-        <option value="package:mine mapbox" />
-        <option value="package:mine   Mapbox" />
       </list>
     </option>
   </component>
