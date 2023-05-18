@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  onConsoleMessage" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine  onConsoleMessage" />
         <option value="package:mine  " />
         <option value="package:mine  asdf" />
-        <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine" />
         <option value="package:mine level:error  EventSender2" />
