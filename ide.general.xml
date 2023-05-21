@@ -20,7 +20,7 @@
         <entry key="Encoding" value="false" />
         <entry key="LineSeparator" value="false" />
         <entry key="Memory" value="true" />
-        <entry key="mtThemeFactory" value="false" />
+        <entry key="mtProjectFactory" value="false" />
       </map>
     </option>
   </component>
